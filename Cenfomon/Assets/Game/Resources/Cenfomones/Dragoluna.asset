@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5c9d416bc484534fb46488936ad4e1b, type: 3}
+  m_Name: Dragoluna
+  m_EditorClassIdentifier: 
+  name: Dragoluna
+  description: 
+  frontSprite: {fileID: 21300000, guid: 522c32c8fb42fb24586bbfbecc36417d, type: 3}
+  backSprite: {fileID: 21300000, guid: 485bc835f555a674d9e2652789c78f0d, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 78
+  attack: 84
+  defense: 78
+  spAttack: 85
+  spDefense: 85
+  speed: 100
+  expYield: 209
+  growthRate: 1
+  catchRate: 45
+  learnableMoves: []
+  evolutions: []

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5c9d416bc484534fb46488936ad4e1b, type: 3}
+  m_Name: Pamon
+  m_EditorClassIdentifier: 
+  name: Pamon
+  description: 
+  frontSprite: {fileID: 21300000, guid: c4be292398e46c24a8b681a79601feca, type: 3}
+  backSprite: {fileID: 21300000, guid: e222b893394865d4895be323f2961d10, type: 3}
+  type1: 5
+  type2: 0
+  maxHp: 20
+  attack: 40
+  defense: 15
+  spAttack: 35
+  spDefense: 35
+  speed: 60
+  expYield: 42
+  growthRate: 0
+  catchRate: 190
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: e0cc0d1b86646844bb4a1c3a9dd8f4ad, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 5a45a601691918b40846e17d2f241e4e, type: 2}
+    level: 1
+  evolutions: []

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5c9d416bc484534fb46488936ad4e1b, type: 3}
+  m_Name: Orucros
+  m_EditorClassIdentifier: 
+  name: Orucros
+  description: 
+  frontSprite: {fileID: 21300000, guid: 935884aec12b0844ca89e4f2c1e88b49, type: 3}
+  backSprite: {fileID: 21300000, guid: 3021510f02e0bf046a2a8fcfaed9a470, type: 3}
+  type1: 4
+  type2: 8
+  maxHp: 45
+  attack: 49
+  defense: 49
+  spAttack: 65
+  spDefense: 65
+  speed: 45
+  expYield: 64
+  growthRate: 1
+  catchRate: 45
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: d8598f8122e19f24c8669cb23b5a611e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6e345581a4b5d074080c8dc3af451b8b, type: 2}
+    level: 1
+  evolutions: []

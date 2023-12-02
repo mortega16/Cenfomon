@@ -1,0 +1,3286 @@
+fileFormatVersion: 2
+guid: 385d2cdc7c92d984c8b87f0350fc70c5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5131bf5666f99f408cc105466985751
+      internalID: -1146329317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8458874c487df0e49b664bb9efdb6ea6
+      internalID: -456610113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d818c0a75ea90ca42801b8a662e99256
+      internalID: -1725773344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8e3eff9302de1469df25171e99db6a
+      internalID: -397296312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7067440ec0fbc6499e1d28850ff7b14
+      internalID: 103314181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c96ac6f7185cf4fa6c8730b04f1bbf
+      internalID: 1925636019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb2e2ad78bdc5d4ab27b984b2604e04
+      internalID: 1911093355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63a567e98ef0f546b483be0f7d7ca76
+      internalID: 113248506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcb33255c4444740b9bda254c066d4c
+      internalID: 314483209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64bb048b1a1ace45aa960f1bf04a66b
+      internalID: -1182333337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262a460c0e5fbb04bbb8ce9537a39763
+      internalID: 419286566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf405f32ed8d5f40b3316e6360c1ca0
+      internalID: -387383768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24748293feacb8345a6ea556af61e88f
+      internalID: 2009217790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55c1cf3bed26be448e9a46df3aa939f
+      internalID: 751344402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444e30350225e3546a8ba2096a88402e
+      internalID: 1355292636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e246fc6434b04ed4fa31d8bc2e30cefc
+      internalID: -309222204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f865b99090d0c3d4b90ebff13abcd0cf
+      internalID: 869478438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17e22d5a25f3044b87937918b1b915d
+      internalID: 1000708014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2342ed6a7099d67488e622f0defa5291
+      internalID: -377720640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e668586a291b6649b06924311b9392c
+      internalID: -481225724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_20
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564b1ea23c78d5840b7cd87aa33707f0
+      internalID: 350982392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5354c84f06ab62943a2a7057afd22fb3
+      internalID: -2030486052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459f006abe06a434d9f44aa0bdb11272
+      internalID: 262713661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0354f272b5d66424f98fc5fbe7b0c196
+      internalID: 1152743694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0cdff3d3f9c8e4999eb148a991bb06
+      internalID: -2107034959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f7587222d831c4f8e9d4fb22f2e39b
+      internalID: 952466457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c71ac65f8ccaa443a84e6b49240357c
+      internalID: 978799826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b1cc38015b69949a55fec5a5b018aa
+      internalID: 2118005881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a556c66f2a1895a4ab2760e305839172
+      internalID: -1657201134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40dc214017fd3e46a9c48802a337242
+      internalID: 1120825683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_30
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351de599f1f8d4c4084308838248d84b
+      internalID: -342844864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_31
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397705a93e1682c4491baeae6b25c8ff
+      internalID: 349324518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db54ed608cdc4e543b86740598bed5e9
+      internalID: 221071199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_33
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d750711945ee4884aa63c7caf68d5aa7
+      internalID: 32652488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_34
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018aa4004354d9f45bc99d8e4fbff9f5
+      internalID: 174015193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263edee6112f3cb46aba86d0916d4d2a
+      internalID: 1417136300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_36
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4042df0411c6abd4d9fe940a88104d23
+      internalID: -813023420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_37
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4609cc1284aa28b409cb4d937f8b4ae9
+      internalID: -104324869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_38
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03b977942ff0cb4ea55b2abd9c9b864
+      internalID: 229920739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85f07a1de33d0d4fbe55c029471dad8
+      internalID: -1527561144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_40
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45c19509f063094f85badf177f3e97c
+      internalID: -1000659190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_41
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d63e11c07177d46b688497e28b75f6
+      internalID: 276476846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_42
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a04398afe9b2c46a786c775d0fda37
+      internalID: -208686077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e639d644a3863e41893772ff06cabd4
+      internalID: -50331050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b54c4b7bba020546ad21f8fd90dc587
+      internalID: 1471544880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4f9bbc12f9a68438b541d58e5d6f11
+      internalID: 1556691886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ad458d4eaa7ee499667718cde0f2e1
+      internalID: 2086592665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10df6be6887f0e74fb292e2bb8ec38cc
+      internalID: -102345747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601d6d6fb83292249af3830687e2d251
+      internalID: -317978256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b10ca3c39574547ba02cf0740ead79
+      internalID: 519804291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_50
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d37aa6837820f4faf0f097949e39da
+      internalID: -453511173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_51
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9364e6d368737e741afaa468e9835b3e
+      internalID: 221746160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef36e2ef275cfb9479a93645ce115b06
+      internalID: 661768347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb565e963eb34484082e28e9e5687f2f
+      internalID: -960157554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66547eb16f9c48743873884b41a7a47b
+      internalID: -1051498581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db67c004f9534b043a848c40ef757a0f
+      internalID: -1587159561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ba40e3ddf48f24fa63993811b047a4
+      internalID: -1441806429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_57
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19bdd17a578dab4f856e0be9ef9013a
+      internalID: 641275694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_58
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc487acf15f40b449a8ef1c98930bb4
+      internalID: -1328908181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_59
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e57a9d8b130a746bb5246c35c29cce
+      internalID: 1282329126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_60
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb62a7964fefe4c479f8f3f34c21d9ae
+      internalID: 157317976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_61
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbf947dd0b679e489e85d786bc47972
+      internalID: -974452326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b44cb2ad7a6e34eb730330addae83e
+      internalID: -1406820832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_63
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96441ffe9d71b0e4e8e427c2191d543f
+      internalID: -779949701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_64
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929e01d585b1eaf46baf4fcee29ccc18
+      internalID: 195464317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_65
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa23a240557e51418ecece95284dce5
+      internalID: 1834904858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_66
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e0b3b97b9f01f488104de7d799399d
+      internalID: -218991211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_67
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f197073419936946bc27761442b943c
+      internalID: -101030801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_68
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942456415249c294188971236ccdd1fb
+      internalID: 1431799899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_69
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2b4c7ac2ceae84eae80c9aaf8bf495
+      internalID: 320209776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_70
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84561a73262e8d844ad32aca859a1aa3
+      internalID: -1094081546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_71
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ad313b06e1e54b806edf0cd9c3749
+      internalID: -935428488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_72
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7184036f0129dfe409e529100a8995ab
+      internalID: -763601789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_73
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b02cff7f32792f4e8c05e10fc3691b9
+      internalID: 162793064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_74
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040cace5dd47d774587d40332f6ff415
+      internalID: -132084418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_75
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4ea1008baeabf41a10bcca70918b76
+      internalID: 551809617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_76
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d19cb14545bad44b18d14ad3122bb1
+      internalID: -842450168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_77
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a53f8c16ca4334eae195d0544ddf3a
+      internalID: -801629778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_78
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfa01dc2e116184cbf7838520d24148
+      internalID: 1179518718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_79
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83250d61d9c13d549a05a12cedd0df0b
+      internalID: 2126697046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_80
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8803b1b9e514797499cc45ee786d095f
+      internalID: 373816700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_81
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e21d5659398ad940bc95166d46c4236
+      internalID: 1237696979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_82
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6726805e84b52444ba8c001507d654db
+      internalID: 1346754913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_83
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d441a2074d015547b0756f07b4d3b97
+      internalID: -1996987417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_84
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0759ae40196af3c4397b0f41e1d3585e
+      internalID: 1200123832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_85
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9d88dbd19c1a340b4344754c9a4a34
+      internalID: 1540381088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_86
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bb064af15c2c54f8fcc096bb152a5a
+      internalID: 1733984846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_87
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cba4406803f0454bb45d65d702ee605
+      internalID: -1277046053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_88
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740bdfce1661e2e4aae038fea0d2aa69
+      internalID: -1647577166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_89
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019da386393b4d34cb4b554557f366c7
+      internalID: 10009962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_90
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899ee723e09eb7d46804e24cd68e99e6
+      internalID: -126048203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_91
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ee332420051214cad7378a199da860
+      internalID: 1398936228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_92
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b15801e81e1f3044abe9cb0ecda0a7d
+      internalID: -671585524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_93
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0ba810db7dcdb4dba365b25c4e2ec9
+      internalID: 684812127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_94
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96cee5ea8911c24c94fbe3d7ab0a031
+      internalID: -1441894066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_95
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfae3e9d755ead448a0b8060429fbb2
+      internalID: 696103314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_96
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991e0a9f4e71be1438b2cf73fa54e030
+      internalID: 1121565177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_97
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5149dcf0737884cb556b4442ddc679
+      internalID: 129491390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_98
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7405c18daadcf04083c43999392986c
+      internalID: -2061861449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_99
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8ff9e080b5fa5468f2601ca3d951a7
+      internalID: -1806251772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_100
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7684b6a0182ad44f87351a9fe95adc5
+      internalID: -2138592761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_101
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2639fc33ab4f64895a7fac122202c9
+      internalID: -688886595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_102
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b6d88be7ba554381dff3c1a043af5
+      internalID: 1729515270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_103
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e0bd838400c8e4b86e82574cd3a87d
+      internalID: -1308460626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_104
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0cd550cd0e99243ab7409266d79308
+      internalID: 1516293786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_105
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa9732f92dbf214eb82c30babe327cf
+      internalID: 1961764203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_106
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099b1d2afa431a145a0517e83f855216
+      internalID: 489021997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_107
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be544acd2f61a6b4a80463c64aee3356
+      internalID: 676342899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_108
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c2b0054fe15c0428dbedd5a216f92a
+      internalID: -140017717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_109
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad261984eaa38844c8dcefecb77bfa0e
+      internalID: 1340230523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_110
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11cdfa6c24c4c0488436ad630dd6475
+      internalID: 146213968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_111
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc7e185bd53f454a831f0cc7fceee8d
+      internalID: -680384049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_112
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbfb8742ac652e40ad4d3b3b7895427
+      internalID: 1133373508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_113
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f11e06bb6e00e46a51c556475adae3
+      internalID: 706527357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_114
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203e9ee2d5ed12b478198e75aa31cd47
+      internalID: -2138920122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_115
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2176c156f27f8ca4086936f74d11439f
+      internalID: 117061721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_116
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de1e42575501a24f883a0ecbfdefb39
+      internalID: -745370152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_117
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b06b33be2feaf4e95cba50878a4136
+      internalID: 1097766421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_118
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5811314626bf64d9f1c2aad923c8b1
+      internalID: 1564453135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_119
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b42aea138b5424abb344f747503214
+      internalID: 948719995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_120
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9044f311aa2f4cd43974986413b12ea5
+      internalID: 1354131953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_121
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f66291a8f9e3549a978de9924677b6
+      internalID: 282403493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_122
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e06ef8b7b53a44ab343969733f17a4
+      internalID: 1492949248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_123
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae391b4223f2ee142a28a0ab651ee7bd
+      internalID: -1754112292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_124
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca7a49e506965c43a63af369bf59f30
+      internalID: -128086340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_125
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6688b5dfb814fb2468cf5360dd8f2cbd
+      internalID: -1878051482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_126
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaec1ff8b54ef984d99da16a68ab4a49
+      internalID: 1524439518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_127
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba64883baa81c418d1bd3cbbd63b41
+      internalID: -231176858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_128
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1e7bb04476bc6439cdf4acfa6ea7b1
+      internalID: -1535793986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_129
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15ac56f31a81fa4c8ca7ef4af8155ef
+      internalID: -1828713878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_130
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb6f8459001712429e7c30970fe6ac8
+      internalID: -1870985849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_131
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee3574da0f11934c8fa50d08f922e27
+      internalID: 1493438917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_132
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a39f2a58dc3512439200693a381383b
+      internalID: -2116598755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_133
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2e6538d84ca084e961c616fc6895a7
+      internalID: 73281692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_134
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e3a31f3edefe847bf720e9966db8b9
+      internalID: 900418994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_135
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f635dbedd5ff6b748ac4485d56ec966e
+      internalID: -1419081709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_136
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e38bb03cd4a84b99fd004f790c16f
+      internalID: 130557018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_137
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176e17e957121ea4fb9aeb71f342ffc1
+      internalID: 1897802132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_138
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74d0f5aa48fc224caddd1727faf6a84
+      internalID: -1280240958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_139
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee7ab31f94d89440ac1e4dece2511f0
+      internalID: -1463467447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_140
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2389c3fa148c3384fb57ce6158edcbba
+      internalID: 1119671605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_141
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09565259182b00644bfbef51b5ccb751
+      internalID: 1166643022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_142
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ec15bac23dc2743a1cc53f6cf78f2e
+      internalID: -16366886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_0: -1146329317
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_1: -456610113
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_10: 419286566
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_100: -2138592761
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_101: -688886595
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_102: 1729515270
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_103: -1308460626
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_104: 1516293786
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_105: 1961764203
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_106: 489021997
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_107: 676342899
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_108: -140017717
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_109: 1340230523
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_11: -387383768
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_110: 146213968
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_111: -680384049
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_112: 1133373508
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_113: 706527357
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_114: -2138920122
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_115: 117061721
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_116: -745370152
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_117: 1097766421
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_118: 1564453135
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_119: 948719995
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_12: 2009217790
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_120: 1354131953
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_121: 282403493
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_122: 1492949248
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_123: -1754112292
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_124: -128086340
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_125: -1878051482
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_126: 1524439518
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_127: -231176858
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_128: -1535793986
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_129: -1828713878
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_13: 751344402
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_130: -1870985849
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_131: 1493438917
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_132: -2116598755
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_133: 73281692
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_134: 900418994
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_135: -1419081709
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_136: 130557018
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_137: 1897802132
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_138: -1280240958
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_139: -1463467447
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_14: 1355292636
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_140: 1119671605
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_141: 1166643022
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_142: -16366886
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_15: -309222204
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_16: 869478438
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_17: 1000708014
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_18: -377720640
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_19: -481225724
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_2: -1725773344
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_20: 350982392
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_21: -2030486052
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_22: 262713661
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_23: 1152743694
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_24: -2107034959
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_25: 952466457
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_26: 978799826
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_27: 2118005881
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_28: -1657201134
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_29: 1120825683
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_3: -397296312
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_30: -342844864
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_31: 349324518
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_32: 221071199
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_33: 32652488
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_34: 174015193
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_35: 1417136300
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_36: -813023420
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_37: -104324869
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_38: 229920739
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_39: -1527561144
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_4: 103314181
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_40: -1000659190
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_41: 276476846
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_42: -208686077
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_43: -50331050
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_44: 1471544880
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_45: 1556691886
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_46: 2086592665
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_47: -102345747
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_48: -317978256
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_49: 519804291
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_5: 1925636019
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_50: -453511173
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_51: 221746160
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_52: 661768347
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_53: -960157554
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_54: -1051498581
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_55: -1587159561
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_56: -1441806429
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_57: 641275694
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_58: -1328908181
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_59: 1282329126
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_6: 1911093355
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_60: 157317976
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_61: -974452326
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_62: -1406820832
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_63: -779949701
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_64: 195464317
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_65: 1834904858
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_66: -218991211
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_67: -101030801
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_68: 1431799899
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_69: 320209776
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_7: 113248506
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_70: -1094081546
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_71: -935428488
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_72: -763601789
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_73: 162793064
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_74: -132084418
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_75: 551809617
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_76: -842450168
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_77: -801629778
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_78: 1179518718
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_79: 2126697046
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_8: 314483209
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_80: 373816700
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_81: 1237696979
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_82: 1346754913
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_83: -1996987417
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_84: 1200123832
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_85: 1540381088
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_86: 1733984846
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_87: -1277046053
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_88: -1647577166
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_89: 10009962
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_9: -1182333337
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_90: -126048203
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_91: 1398936228
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_92: -671585524
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_93: 684812127
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_94: -1441894066
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_95: 696103314
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_96: 1121565177
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_97: 129491390
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_98: -2061861449
+      mighty_morphin_power_rangers_trainer_sprites_by_mid117_dfjentt_99: -1806251772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

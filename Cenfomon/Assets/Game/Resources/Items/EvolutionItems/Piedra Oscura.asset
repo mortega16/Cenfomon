@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86ba4110380d9b343adba04b2bad6802, type: 3}
+  m_Name: Piedra Oscura
+  m_EditorClassIdentifier: 
+  name: Piedra Oscura
+  description: Evoluciona de Yencorn a Yencornio
+  icon: {fileID: -1601059104, guid: c9c0d3cf77f4aac46b36e875ac030de4, type: 3}
+  price: 450
+  isSellable: 1
