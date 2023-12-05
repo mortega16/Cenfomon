@@ -20159,10 +20159,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   wildCenfomons:
-  - _base: {fileID: 11400000, guid: e968da26449cd1041921e7d3684c5e25, type: 2}
-    level: 5
-  - _base: {fileID: 11400000, guid: 312df23deb3106c4da4f992acae3f095, type: 2}
-    level: 7
+  - cenfomon: {fileID: 0}
+    levelRange: {x: 0, y: 0}
+    Dificultad: 0
+    chancePercentage: 0
+  - cenfomon: {fileID: 0}
+    levelRange: {x: 0, y: 0}
+    Dificultad: 0
+    chancePercentage: 0
+  totalChance: 0
 --- !u!156049354 &486827136
 Grid:
   m_ObjectHideFlags: 0
@@ -43970,7 +43975,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6963775263453272012, guid: 3dce9da34578b714eb9513e0dfe9cc47, type: 3}
       propertyPath: sceneToLoad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6963775263453272012, guid: 3dce9da34578b714eb9513e0dfe9cc47, type: 3}
       propertyPath: destinationPortal
